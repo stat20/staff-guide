@@ -1,0 +1,9 @@
+# Roles and Expectations
+
+## Tutors {.unnumbered}
+
+Tutors assist instructors in lecture.
+
+## Readers {.unnumbered}
+
+Readers are the primary graders of course materials.

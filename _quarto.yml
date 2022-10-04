@@ -1,0 +1,19 @@
+project:
+  type: book
+
+book:
+  title: "Stat 20 Staff Guide"
+  date: "10/4/2022"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - roles-and-expectations.qmd
+
+
+
+format:
+  html:
+    theme: sandstone
+
+
+
