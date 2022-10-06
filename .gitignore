@@ -3,7 +3,7 @@
 .RData
 .Ruserdata
 
-book/*
+_book/*
 
 *.html
 *_files
