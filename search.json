@@ -4,27 +4,48 @@
     "href": "index.html",
     "title": "Stat 20 Staff Guide",
     "section": "",
-    "text": "This is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+    "text": "Stat 20 Staff Guide\nThis is a website which serves as a resource for the Stat 20 course staff."
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "See @knuth84 for additional discussion of literate programming."
+    "objectID": "tutors.html#roles",
+    "href": "tutors.html#roles",
+    "title": "1  Tutors",
+    "section": "1.1 Roles",
+    "text": "1.1 Roles\nTutors’ roles include:\n\nHelping with section on MWF\nHolding office hours\nAnswering questions on the class forum.\nAssisting with the proctoring of exams."
   },
   {
-    "objectID": "roles-and-expectations.html",
-    "href": "roles-and-expectations.html",
-    "title": "2  Roles and Expectations",
-    "section": "",
-    "text": "Tutors assist instructors in lecture."
+    "objectID": "tutors.html#responsibilities",
+    "href": "tutors.html#responsibilities",
+    "title": "1  Tutors",
+    "section": "1.2 Responsibilities:",
+    "text": "1.2 Responsibilities:\nTutors’ responsibilities include:\n\nAttending section\nReviewing the day’s materials before attending section\nWithin section, fielding and answering student questions during unstructured work time\nBeing present on the class forum during their assigned time.\nAttending a weekly/biweekly meeting with the instructors"
   },
   {
-    "objectID": "roles-and-expectations.html#readers",
-    "href": "roles-and-expectations.html#readers",
-    "title": "2  Roles and Expectations",
-    "section": "Readers",
-    "text": "Readers\nReaders are the primary graders of course materials."
+    "objectID": "readers.html#roles",
+    "href": "readers.html#roles",
+    "title": "2  Readers",
+    "section": "2.1 Roles",
+    "text": "2.1 Roles\nReaders are the primary graders in the course."
+  },
+  {
+    "objectID": "readers.html#responsibilities",
+    "href": "readers.html#responsibilities",
+    "title": "2  Readers",
+    "section": "2.2 Responsibilities",
+    "text": "2.2 Responsibilities\nReaders are responsible for:\n\nGrading their assigned work in a timely manner\nResolving regrade requests in a timely manner\nAttending a weekly/biweekly meeting held by the instructors which is meant to track their progress."
+  },
+  {
+    "objectID": "instructors.html#roles",
+    "href": "instructors.html#roles",
+    "title": "3  Instructors/GSI-Instructors",
+    "section": "3.1 Roles",
+    "text": "3.1 Roles\nThe roles of instructors include:\n\nDesigning the course syllabus\nLeading one, two or three sections on MWF\nCreating and disseminating course materials. These includes, but are not limited to:\n\nLabs\nProblem Sets\nIn-class slides and handouts\nQuizzes and Exams\nReview material\n(to the tutors) solutions to these course materials\n\nHolding office hours\nMaintaining the course website\nAnswering questions on the class forum.\nAdministering exams\nPosting final grades."
+  },
+  {
+    "objectID": "instructors.html#responsibilities",
+    "href": "instructors.html#responsibilities",
+    "title": "3  Instructors/GSI-Instructors",
+    "section": "3.2 Responsibilities",
+    "text": "3.2 Responsibilities\nInstructor responsibilities include:\n\nAssigning tutors to sections\nPreparing a general lesson plan for each day of section and disseminating this plan to the tutors by a reasonable time before section\nDisseminating solutions to in-class handouts, labs and problem sets to tutors by the time of assignment release\nDuring class, walking around to groups and assessing their understanding of the material, as well as fielding and answering student questions\nCreating rubrics for labs\nCommunicating with readers with regards to grading questions\nSetting up meetings with tutors and readers regularly (weekly or biweekly)\nGranting assignment extensions\nResolving exam conflicts\nArranging student accommodations"
   }
 ]
