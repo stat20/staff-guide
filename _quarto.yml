@@ -6,8 +6,12 @@ book:
   date: "10/4/2022"
   chapters:
     - index.qmd
-    - intro.qmd
-    - roles-and-expectations.qmd
+    - part: "Roles and Expectations"
+      chapters:
+        - tutors.qmd
+        - readers.qmd
+        - instructors.qmd
+    - part: "Resources"
 
 
 
