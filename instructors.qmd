@@ -1,6 +1,6 @@
 # Instructors/GSI-Instructors
 
-Instructors are the primary point of contact in the course.
+Instructors are the primary point of contact in the course. Testing, one two...
 
 ## Roles
 
